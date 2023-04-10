@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demoDelta4</string>
+    <string name="main_notification_icon">notification_icon</string>
+    <string name="main_menu">menu</string>
+</resources>
